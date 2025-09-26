@@ -92,6 +92,5 @@ Sock.js를 활용하여 유저와 관리자를 같은 Topic에 Connect 시키고
 
 ## 프로젝트 관련 자료
 - [📺 시연 영상 보기](https://drive.google.com/file/d/1KNOvw39GN9Nq5Je-ABuRC-72UrQRXZcF/view?usp=drive_link)  
-- [📑 발표 자료 (PPT)](https://docs.google.com/presentation/d/16lXHTDZbE-LNdOH8F0PCaCt6K38miHoa/edit?usp=drive_link&ouid=115939005204624444347&rtpof=true&sd=true)
-- [📑 발표 자료 (pdf)](https://drive.google.com/file/d/1R2O6azIVtrfG5PVHf0HQbu1ax7nbVQV5/view?usp=drive_link)
+- [📑 발표 자료 (pdf)](https://drive.google.com/file/d/1DMHbphXrs7kvrevE1sIYHGOqHCI6RMkZ/view?usp=drive_link)
 - [📑 UML](https://drive.google.com/file/d/1nqFyjvWFnB1mlrkAlK9wcyfHImJZQSMl/view?usp=drive_link)
