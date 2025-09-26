@@ -61,7 +61,7 @@ Little Forest는 친환경 소비(가상의 결제·계좌 내역 기반)를 탄
 | DB          | Oracle 21c |
 | 프론트엔드  | HTML, CSS, JS, Thymeleaf |
 | 백엔드      | REST API, Spring Security, MyBatis|
-| API         | Kakao API, Daum Postcode API, DeepL API|
+| API         | Kakao API, Daum Postcode API, Cloudinary API(사진 업로드), DeepL API(자동 번역)|
 | 실시간 통신 | SockJS |
 | 협업 도구 | Git, Swagger |
 | 설계 도구   | Figma, Pencil(UI), dbdiagram.io(ERD) |
